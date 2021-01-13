@@ -185,7 +185,6 @@ namespace xadrez
             {
                 vulneravelEnPassant = null;
             }
-
         }
 
         public void validarPosicaoDeOrigem(Posicao pos)
